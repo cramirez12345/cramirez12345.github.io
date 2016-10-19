@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings
+
+nameText="LIQUINETICS™"
+taglineText="Precision Chemical Tools"
+mainText="SITE COMING SOON"
+
+useOwnLogo="false"
+logoFilePath="logo.png"
+
+nameColor="0xffffff"
+taglineColor="0xffffff"
+mainColor="0xffffff"
+linkColor="0xffffff"
+linkRollOverColor="0x0057ED"
+linkRollOverBlurAmount="5"
+
+backgroundColor="0x000000"
+backgroundGradientColor1="0x3300FF"
+backgroundGradientColor2="0x000000"
+backgroundGradientAlphaPercent="90"
+
+borderColor="0xffffff"
+borderThickness="10"
+
+ownLogoXOffset="3"
+taglineXOffset="2"
+taglineYOffset="-9"
+mainXOffset="-2"
+linkXOffset="2"
+
+introBlurAmount="20"
+siteRotation="0"
+
+>
+
+<link text="INFO@LIQUINETICS.com" url="mailto:info@liquinetics.com" />
+<link text="DOWNLOAD PRODUCT INFORMATION" url="http://www.liquinetics.com/" target="_blank" />
+<link text="VISIT US ON FACEBOOK" url="http://www.liquinetics.com/" target="_blank" />
+	
+</settings>
